@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="72" viewBox="0 0 100 72" role="img" aria-label="PHP">
+<rect x="28" y="1" width="44" height="44" rx="9" fill="#171210" stroke="#594236"/>
+<path d="M40 45H60" stroke="#853933" stroke-width="2"/>
+<text x="50" y="29" text-anchor="middle" font-family="Consolas,monospace" font-size="17" fill="#e9dfcc">php</text>
+<text x="50" y="64" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="12" fill="#b9aa94">PHP</text></svg>
